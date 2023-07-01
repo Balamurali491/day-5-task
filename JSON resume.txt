@@ -1,0 +1,46 @@
+let myResume={
+    "basics": {
+      "name": "BALAMURALI S",
+      "email": "balamurali491@gmail.com",
+      "phone": 8072054260,
+      "degree": "DME",
+      "location": {
+        "address": "7/2,North street",
+        "postalCode": 625701,
+        "city": "Madurai",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "github":"https://github.com/Balamurali491"
+        }
+      ]
+    },
+    "education": [
+      {
+        "institution": "Sri Ranganathar Institute Of Polytechnic College",
+        "department": "Mechanical",
+        "studyType": "fulltime",
+        "batch start year": 2013,
+        "batch end year": 2018,
+      }
+    ],
+    "skills": [
+      {
+        "name": "Full Stack Development",
+        "level": "beginer",
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish",
+      }
+    ],
+    "interests": [
+      {
+        "name": "Playing,youtuber,",
+      }
+    ]
+  }
+  console.log(myResume);
